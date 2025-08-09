@@ -26,18 +26,22 @@ export async function POST(request: NextRequest): Promise<NextResponse<ContactRe
     }
     
     // Email Configuration using Gmail SMTP
-    // Note: In production, add GMAIL_USER and GMAIL_APP_PASSWORD to environment variables
-    const gmailUser = process.env.GMAIL_USER || 'chanmadisto@gmail.com';
-    const gmailPassword = process.env.GMAIL_APP_PASSWORD; // Gmail App Password
+    const gmailUser = process.env.SMTP_USER || 'chrisfennell@gmail.com';
+    const gmailPassword = process.env.SMTP_PASS || 'dbvfxjgiacwrrbbw'; // Gmail App Password
     
     if (gmailPassword) {
       try {
         // Create transporter using Gmail SMTP
         const transporter = nodemailer.createTransport({
-          service: 'gmail',
+          host: 'smtp.gmail.com',
+          port: 587,
+          secure: false, // true for 465, false for other ports
           auth: {
             user: gmailUser,
             pass: gmailPassword,
+          },
+          tls: {
+            rejectUnauthorized: false,
           },
         });
         
@@ -54,7 +58,7 @@ Submitted: ${new Date().toISOString()}
         // Send email
         await transporter.sendMail({
           from: `"CustomsByChan Portfolio" <${gmailUser}>`,
-          to: 'chanmadisto@gmail.com',
+          to: process.env.SMTP_TO || 'chrisfennell@gmail.com',
           subject: 'New Contact Form Submission - Chan Riiny Portfolio',
           text: emailContent,
           html: `
