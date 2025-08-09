@@ -1,3 +1,0 @@
-public/images/web-optimized/**/*.jpg filter=lfs diff=lfs merge=lfs -text
-public/images/web-optimized/**/*.JPG filter=lfs diff=lfs merge=lfs -text
-public/images/web-optimized/**/*.HEIC filter=lfs diff=lfs merge=lfs -text
