@@ -26,7 +26,7 @@ export async function POST(request: NextRequest): Promise<NextResponse<ContactRe
     }
     
     // Email Configuration using Gmail SMTP
-    const gmailUser = process.env.SMTP_USER || 'chrisfennell@gmail.com';
+    const gmailUser = process.env.SMTP_USER || 'chanmadisto@gmail.com';
     const gmailPassword = process.env.SMTP_PASS || 'dbvfxjgiacwrrbbw'; // Gmail App Password
     
     if (gmailPassword) {
@@ -58,7 +58,7 @@ Submitted: ${new Date().toISOString()}
         // Send email
         await transporter.sendMail({
           from: `"CustomsByChan Portfolio" <${gmailUser}>`,
-          to: process.env.SMTP_TO || 'chrisfennell@gmail.com',
+          to: process.env.SMTP_TO || 'chanmadisto@gmail.com',
           subject: 'New Contact Form Submission - Chan Riiny Portfolio',
           text: emailContent,
           html: `
