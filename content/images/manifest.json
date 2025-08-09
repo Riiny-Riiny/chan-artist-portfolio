@@ -1,0 +1,69 @@
+[
+  {
+    "id": "mural-001",
+    "src": "/images/murals/mural-1.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "murals",
+    "year": "2020",
+    "medium": "Acrylic on wall",
+    "location": "San Francisco, CA",
+    "featured": true
+  },
+  {
+    "id": "mural-002",
+    "src": "/images/murals/mural-2.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "murals",
+    "year": "2020",
+    "medium": "Acrylic on wall",
+    "location": "San Francisco, CA",
+    "featured": false
+  },
+  {
+    "id": "shoe-001",
+    "src": "/images/shoes/IMG_3233.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Oil on shoe",
+    "location": "San Francisco, CA",
+    "featured": true
+  },
+  {
+    "id": "shoe-002",
+    "src": "/images/shoes/IMG_3832.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Oil on shoe",
+    "location": "San Francisco, CA",
+    "featured": false
+  },
+  {
+    "id": "sketch-001",
+    "src": "/images/sketches/IMG_3237.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "sketches",
+    "year": "2024",
+    "medium": "Pencil on paper",
+    "featured": false
+  },
+  {
+    "id": "thesis-001",
+    "src": "/images/thesis/IMG_4638.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "thesis",
+    "year": "2024",
+    "medium": "Oil on canvas",
+    "featured": true
+  },
+  {
+    "id": "process-001",
+    "src": "/images/process/IMG_1197.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "process",
+    "year": "2024",
+    "medium": "Oil on shoe",
+    "featured": false
+  }
+] 

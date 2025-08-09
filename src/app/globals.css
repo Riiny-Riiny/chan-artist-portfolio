@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Keep @apply inside a layer for safety with some PostCSS setups */
+@layer base {
+  html, body {
+    @apply bg-black text-white font-serif;
+  }
+}
+
+@layer components {
+  .focus-ring {
+    @apply focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-black;
+  }
+  
+  .gallery-grid {
+    @apply grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 md:gap-6 lg:gap-8;
+  }
+  
+  .btn-primary {
+    @apply inline-flex items-center px-6 py-3 border border-white text-white font-medium text-sm tracking-wide uppercase hover:bg-white hover:text-black transition-colors duration-200 focus-ring;
+  }
+  
+  .btn-secondary {
+    @apply inline-flex items-center px-4 py-2 border border-white/20 text-white/80 font-medium text-sm hover:text-white hover:border-white/40 transition-colors duration-200 focus-ring;
+  }
+}
+
+/* Optional: prose styles on dark bg */
+.prose-invert a { @apply underline; } 

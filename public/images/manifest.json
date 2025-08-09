@@ -1,0 +1,349 @@
+[
+  {
+    "id": "process-001",
+    "src": "/images/process/IMG_1687.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "process",
+    "year": "2019-2024",
+    "medium": "Oil on canvas",
+    "featured": true
+  },
+  {
+    "id": "process-002",
+    "src": "/images/process/IMG_6866.JPG",
+    "alt": "[placeholder alt pending]",
+    "category": "process",
+    "year": "2019-2024",
+    "medium": "Oil on shoe",
+    "featured": true
+  },
+  {
+    "id": "process-003",
+    "src": "/images/process/IMG_6865.JPG",
+    "alt": "[placeholder alt pending]",
+    "category": "process",
+    "year": "2019-2024",
+    "medium": "Oil on shoe",
+    "featured": true
+  },
+  {
+    "id": "process-004",
+    "src": "/images/process/IMG_6862.JPG",
+    "alt": "[placeholder alt pending]",
+    "category": "process",
+    "year": "2019-2024",
+    "medium": "Oil on shoe",
+    "featured": true
+  },
+  {
+    "id": "process-005",
+    "src": "/images/process/IMG_6860.JPG",
+    "alt": "[placeholder alt pending]",
+    "category": "process",
+    "year": "2019-2024",
+    "medium": "Oil on shoe",
+    "featured": true
+  },
+  {
+    "id": "process-006",
+    "src": "/images/process/IMG_6856.JPG",
+    "alt": "[placeholder alt pending]",
+    "category": "process",
+    "year": "2019-2024",
+    "medium": "Oil on shoe",
+    "featured": true
+  },
+  {
+    "id": "process-007",
+    "src": "/images/process/IMG_6853.JPG",
+    "alt": "[placeholder alt pending]",
+    "category": "process",
+    "year": "2019-2024",
+    "medium": "Oil on shoe",
+    "featured": true
+  },
+  {
+    "id": "process-008",
+    "src": "/images/process/IMG_6852.JPG",
+    "alt": "[placeholder alt pending]",
+    "category": "process",
+    "year": "2019-2024",
+    "medium": "Oil on shoe",
+    "featured": true
+  },
+  {
+    "id": "process-009",
+    "src": "/images/process/IMG_6843.JPG",
+    "alt": "[placeholder alt pending]",
+    "category": "process",
+    "year": "2019-2024",
+    "medium": "Oil on shoe",
+    "featured": true
+  },
+  {
+    "id": "process-010",
+    "src": "/images/process/IMG_3857.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "process",
+    "year": "2019-2024",
+    "medium": "Oil on shoe",
+    "featured": true
+  },
+  {
+    "id": "process-011",
+    "src": "/images/process/IMG_3856.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "process",
+    "year": "2019-2024",
+    "medium": "Oil on shoe",
+    "featured": true
+  },
+  {
+    "id": "process-012",
+    "src": "/images/process/IMG_3855.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "process",
+    "year": "2019-2024",
+    "medium": "Oil on shoe",
+    "featured": true
+  },
+  {
+    "id": "process-013",
+    "src": "/images/process/IMG_1197.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "process",
+    "year": "2019-2024",
+    "medium": "Oil on shoe",
+    "featured": true
+  },
+  {
+    "id": "shoe-001",
+    "src": "/images/murals/IMG_1686.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Oil on canvas",
+    "location": "Georgetown, KY",
+    "featured": true
+  },
+  {
+    "id": "shoe-002",
+    "src": "/images/murals/IMG_1685.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "murals",
+    "year": "2023-2024",
+    "medium": "Oil on canvas",
+    "location": "Georgetown, KY",
+    "featured": true
+  },
+  {
+    "id": "shoe-003",
+    "src": "/images/shoes/IMG_2192.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "shoes",
+    "year": "2019-2024",
+    "medium": "Oil on shoe",
+    "location": "Georgetown, KY",
+    "featured": false
+  },
+  {
+    "id": "shoe-004",
+    "src": "/images/shoes/IMG_2191.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "shoes",
+    "year": "2019-2024",
+    "medium": "Oil on shoe",
+    "location": "Georgetown, KY",
+    "featured": false
+  },
+  {
+    "id": "shoe-005",
+    "src": "/images/shoes/IMG_4260.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "shoes",
+    "year": "2019-2024",
+    "medium": "Oil on shoe",
+    "location": "Georgetown, KY",
+    "featured": false
+  },
+  {
+    "id": "shoe-006",
+    "src": "/images/shoes/IMG_4261.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "shoes",
+    "year": "2019-2024",
+    "medium": "Oil on shoe",
+    "location": "Georgetown, KY",
+    "featured": false
+  },
+  {
+    "id": "shoe-007",
+    "src": "/images/shoes/IMG_3858.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "shoes",
+    "year": "2019-2024",
+    "medium": "Oil on shoe",
+    "location": "Georgetown, KY",
+    "featured": false
+  },
+  {
+    "id": "shoe-008",
+    "src": "/images/shoes/IMG_3832.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "shoes",
+    "year": "2019-2024",
+    "medium": "Oil on shoe",
+    "location": "Georgetown, KY",
+    "featured": false
+  },
+  {
+    "id": "mural-001",
+    "src": "/images/murals/mural-1.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "murals",
+    "year": "2020",
+    "medium": "Acrylic on wall",
+    "location": "San Francisco, CA",
+    "featured": true
+  },
+  {
+    "id": "mural-002",
+    "src": "/images/murals/mural-2.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "murals",
+    "year": "2020",
+    "medium": "Acrylic on wall",
+    "location": "San Francisco, CA",
+    "featured": true
+  },
+  {
+    "id": "mural-003",
+    "src": "/images/murals/mural-3.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "murals",
+    "year": "2022-2025",
+    "medium": "Oil on canvas",
+    "location": "Georgetown, KY",
+    "featured": false
+  },
+  {
+    "id": "mural-004",
+    "src": "/images/murals/mural-4.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "murals",
+    "year": "2021",
+    "medium": "Acrylic on wall",
+    "location": "Cleveland, OH",
+    "featured": false
+  },
+  {
+    "id": "mural-005",
+    "src": "/images/murals/IMG_2670.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "murals",
+    "year": "2024",
+    "medium": "Oil on canvas",
+    "location": "Georgetown, KY",
+    "featured": true
+  },
+  {
+    "id": "mural-006",
+    "src": "/images/murals/IMG_2745.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "murals",
+    "year": "2020-2025",
+    "medium": "Oil on canvas",
+    "location": "Georgetown, KY",
+    "featured": false
+  },
+  {
+    "id": "mural-007",
+    "src": "/images/murals/IMG_6048.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "murals",
+    "year": "2024",
+    "medium": "Oil on canvas",
+    "location": "Georgetown, KY",
+    "featured": false
+  },
+  {
+    "id": "mural-008",
+    "src": "/images/murals/IMG_4960.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "murals",
+    "year": "2024",
+    "medium": "Oil on canvas",
+    "location": "Georgetown, KY",
+    "featured": false
+  },
+  {
+    "id": "mural-009",
+    "src": "/images/murals/IMG_3492.JPG",
+    "alt": "[placeholder alt pending]",
+    "category": "murals",
+    "year": "2023",
+    "medium": "Acrylic on wall",
+    "location": "Georgetown, KY",
+    "featured": false
+  },
+  {
+    "id": "mural-010",
+    "src": "/images/murals/IMG_3487.JPG",
+    "alt": "[placeholder alt pending]",
+    "category": "murals",
+    "year": "2023",
+    "medium": "Acrylic on wall",
+    "location": "Georgetown, KY",
+    "featured": false
+  },
+  {
+    "id": "sketch-001",
+    "src": "/images/shoes/IMG_4341.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "shoes",
+    "year": "2021",
+    "medium": "Oil on shoe",
+    "location": "San Francisco, CA",
+    "featured": false
+  },
+  {
+    "id": "mural-011",
+    "src": "/images/murals/IMG_0685.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "murals",
+    "year": "2020",
+    "medium": "Oil on canvas",
+    "location": "San Francisco, CA",
+    "featured": false
+  },
+  {
+    "id": "mural-013",
+    "src": "/images/murals/IMG_0686.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "sketches",
+    "year": "2020",
+    "medium": "Oil on canvas",
+    "location": "San Francisco, CA",
+    "featured": false
+  },
+  {
+    "id": "mural-012",
+    "src": "/images/murals/IMG_0668.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "murals",
+    "year": "2024",
+    "medium": "Oil on canvas",
+    "location": "Georgetown, KY",
+    "featured": false
+  },
+  {
+    "id": "thesis-001",
+    "src": "/images/thesis/IMG_4688.jpg",
+    "alt": "[placeholder alt pending]",
+    "category": "thesis",
+    "year": "2024",
+    "medium": "Oil on canvas and beats",
+    "location": "Georgetown, KY",
+    "featured": true
+  }
+] 

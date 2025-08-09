@@ -1,0 +1,21 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+name: chan-portfolio-rules
+description: Rules for building and editing Chan Riiny's artist portfolio site
+scope: workspace
+rules:
+  - Never invent artwork titles, descriptions, categories, exhibitions, prices, or client lists.
+  - Only use content from Chan Riiny’s provided artist statement and senior thesis for biography and narrative sections.
+  - Always refer to Chan Riiny as a mural and shoe design artist.
+  - All placeholder text, images, or metadata must be clearly marked with “[placeholder]”.
+  - Visual style: black background, white serif typography, high contrast, generous whitespace, minimal hover effects, and clean image-led layouts.
+  - Navigation must remain left-aligned site name and right-aligned links: Work, Artist Statement, Thesis, Contact, Instagram.
+  - Homepage must remain a gallery-first page with a responsive grid/masonry of artworks.
+  - Do not add e-commerce, pricing, or shop features unless explicitly requested.
+  - Maintain accessibility: ARIA-compliant lightbox, alt text for all images, keyboard navigation, and WCAG AA contrast.
+  - Use Tailwind CSS utility classes only; no external CSS frameworks.
+  - All code must be clean, commented, and production-ready with room for content expansion.
+
