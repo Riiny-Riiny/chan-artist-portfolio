@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Test - Chan Riiny Portfolio</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .test-section { margin: 20px 0; padding: 20px; border: 1px solid #ccc; }
+        .test-image { max-width: 200px; height: auto; margin: 10px; border: 1px solid #ddd; }
+        .error { color: red; }
+        .success { color: green; }
+    </style>
+</head>
+<body>
+    <h1>Image Loading Test</h1>
+    
+    <div class="test-section">
+        <h2>Testing Key Images</h2>
+        
+        <h3>Landing Page Hero:</h3>
+        <img src="/images/web-optimized/murals/mural-1.jpg" class="test-image" 
+             onload="this.nextSibling.innerHTML='✅ Loaded'" 
+             onerror="this.nextSibling.innerHTML='❌ Failed to load'">
+        <span class="status"></span>
+        
+        <h3>Thesis Page Hero:</h3>
+        <img src="/images/web-optimized/thesis/IMG_4688.jpg" class="test-image"
+             onload="this.nextSibling.innerHTML='✅ Loaded'" 
+             onerror="this.nextSibling.innerHTML='❌ Failed to load'">
+        <span class="status"></span>
+        
+        <h3>First Gallery Image:</h3>
+        <img src="/images/web-optimized/murals/IMG_0658.JPG" class="test-image"
+             onload="this.nextSibling.innerHTML='✅ Loaded'" 
+             onerror="this.nextSibling.innerHTML='❌ Failed to load'">
+        <span class="status"></span>
+        
+        <h3>Sample Shoe Image:</h3>
+        <img src="/images/web-optimized/shoes/IMG_3233.jpg" class="test-image"
+             onload="this.nextSibling.innerHTML='✅ Loaded'" 
+             onerror="this.nextSibling.innerHTML='❌ Failed to load'">
+        <span class="status"></span>
+    </div>
+    
+    <div class="test-section">
+        <h2>Manifest Test</h2>
+        <button onclick="loadManifest()">Load Manifest</button>
+        <div id="manifest-result"></div>
+        <div id="images-container"></div>
+    </div>
+    
+    <script>
+        async function loadManifest() {
+            const resultDiv = document.getElementById('manifest-result');
+            const imagesDiv = document.getElementById('images-container');
+            
+            try {
+                const response = await fetch('/images/manifest.json');
+                const data = await response.json();
+                
+                resultDiv.innerHTML = `<span class="success">✅ Manifest loaded: ${data.length} images</span>`;
+                
+                // Test first 5 images
+                imagesDiv.innerHTML = '<h3>First 5 Manifest Images:</h3>';
+                data.slice(0, 5).forEach((item, index) => {
+                    const img = document.createElement('img');
+                    img.src = item.src;
+                    img.className = 'test-image';
+                    img.onload = () => {
+                        img.nextSibling.innerHTML = `✅ ${item.id}`;
+                    };
+                    img.onerror = () => {
+                        img.nextSibling.innerHTML = `❌ ${item.id} - ${item.src}`;
+                    };
+                    
+                    const status = document.createElement('span');
+                    status.innerHTML = `⏳ Loading ${item.id}...`;
+                    
+                    imagesDiv.appendChild(img);
+                    imagesDiv.appendChild(status);
+                    imagesDiv.appendChild(document.createElement('br'));
+                });
+                
+            } catch (error) {
+                resultDiv.innerHTML = `<span class="error">❌ Failed to load manifest: ${error.message}</span>`;
+            }
+        }
+    </script>
+</body>
+</html>
