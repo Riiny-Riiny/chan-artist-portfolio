@@ -26,7 +26,7 @@ export default function ThesisPage() {
         <div className="mb-16">
           <div className="relative aspect-[9/19] md:aspect-[3/7] bg-white/5 overflow-hidden">
             <Image
-              src="/images/thesis/IMG_4688.jpg"
+              src="/images/web-optimized/thesis/IMG_4688.jpg"
               alt="Thesis work by Chan Riiny"
               fill
               className="object-cover"
@@ -89,7 +89,7 @@ export default function ThesisPage() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <div className="aspect-square overflow-hidden">
               <Image
-                src="/images/thesis/thesis-detail-1.jpg"
+                src="/images/web-optimized/thesis/thesis-detail-1.jpg"
                 alt="Thesis detail shot 1"
                 width={400}
                 height={400}
@@ -99,7 +99,7 @@ export default function ThesisPage() {
             </div>
             <div className="aspect-square overflow-hidden">
               <Image
-                src="/images/thesis/thesis-detail-2.jpg"
+                src="/images/web-optimized/thesis/thesis-detail-2.jpg"
                 alt="Thesis detail shot 2"
                 width={400}
                 height={400}
@@ -109,7 +109,7 @@ export default function ThesisPage() {
             </div>
             <div className="aspect-square overflow-hidden">
               <Image
-                src="/images/thesis/thesis-detail-3.jpg"
+                src="/images/web-optimized/thesis/thesis-detail-3.jpg"
                 alt="Thesis detail shot 3"
                 width={400}
                 height={400}

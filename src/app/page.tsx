@@ -45,7 +45,7 @@ export default function LandingPage() {
           <div className="order-1 lg:order-2">
             <div className="relative aspect-[3/4] bg-white/5 overflow-hidden">
               <Image
-                src="/images/murals/mural-1.jpg"
+                src="/images/web-optimized/murals/mural-1.jpg"
                 alt="Featured artwork by Chan Riiny"
                 fill
                 className="object-cover"
