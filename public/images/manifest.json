@@ -1,408 +1,1025 @@
 [
   {
-    "id": "mural-001",
-    "src": "/images/web-optimized/murals/mural-1.jpg",
-    "alt": "Large-scale mural featuring vibrant colors and cultural motifs",
-    "category": "murals",
-    "year": "2024",
-    "medium": "Acrylic on wall",
-    "location": "San Francisco, CA",
-    "featured": true
-  },
-  {
-    "id": "mural-002",
-    "src": "/images/web-optimized/murals/mural-2.jpg",
-    "alt": "Community mural celebrating South Sudanese heritage",
-    "category": "murals",
-    "year": "2024",
-    "medium": "Acrylic on wall",
-    "location": "San Francisco, CA",
-    "featured": true
-  },
-  {
-    "id": "mural-003",
-    "src": "/images/web-optimized/murals/mural-3.jpg",
-    "alt": "Geometric mural design with traditional patterns",
-    "category": "murals",
-    "year": "2024",
-    "medium": "Acrylic on wall",
-    "location": "San Francisco, CA",
-    "featured": true
-  },
-  {
-    "id": "mural-004",
-    "src": "/images/web-optimized/murals/mural-4.jpg",
-    "alt": "Colorful street mural with community themes",
-    "category": "murals",
-    "year": "2024",
-    "medium": "Acrylic on wall",
-    "location": "San Francisco, CA",
-    "featured": true
-  },
-  {
-    "id": "mural-005",
-    "src": "/images/web-optimized/murals/IMG_3486.JPG",
-    "alt": "Detailed mural work in progress",
+    "id": "murals-001",
+    "src": "/images/web-optimized/murals/IMG_0658.JPG",
+    "alt": "Mural artwork by Chan Riiny",
     "category": "murals",
     "year": "2024",
     "medium": "Acrylic on wall",
     "featured": true
   },
   {
-    "id": "mural-006",
-    "src": "/images/web-optimized/murals/IMG_3487.JPG",
-    "alt": "Completed section of community mural",
+    "id": "murals-002",
+    "src": "/images/web-optimized/murals/IMG_0663.JPG",
+    "alt": "Mural artwork by Chan Riiny",
     "category": "murals",
     "year": "2024",
     "medium": "Acrylic on wall",
     "featured": true
   },
   {
-    "id": "mural-007",
+    "id": "murals-003",
+    "src": "/images/web-optimized/murals/IMG_0666.JPG",
+    "alt": "Mural artwork by Chan Riiny",
+    "category": "murals",
+    "year": "2024",
+    "medium": "Acrylic on wall",
+    "featured": true
+  },
+  {
+    "id": "murals-004",
+    "src": "/images/web-optimized/murals/IMG_0668.jpg",
+    "alt": "Mural artwork by Chan Riiny",
+    "category": "murals",
+    "year": "2024",
+    "medium": "Acrylic on wall",
+    "featured": true
+  },
+  {
+    "id": "murals-005",
+    "src": "/images/web-optimized/murals/IMG_0685.jpg",
+    "alt": "Mural artwork by Chan Riiny",
+    "category": "murals",
+    "year": "2024",
+    "medium": "Acrylic on wall",
+    "featured": true
+  },
+  {
+    "id": "murals-006",
+    "src": "/images/web-optimized/murals/IMG_0686.jpg",
+    "alt": "Mural artwork by Chan Riiny",
+    "category": "murals",
+    "year": "2024",
+    "medium": "Acrylic on wall",
+    "featured": true
+  },
+  {
+    "id": "murals-007",
+    "src": "/images/web-optimized/murals/IMG_1027.HEIC",
+    "alt": "Mural artwork by Chan Riiny",
+    "category": "murals",
+    "year": "2024",
+    "medium": "Acrylic on wall",
+    "featured": true
+  },
+  {
+    "id": "murals-008",
+    "src": "/images/web-optimized/murals/IMG_1685.jpg",
+    "alt": "Mural artwork by Chan Riiny",
+    "category": "murals",
+    "year": "2024",
+    "medium": "Acrylic on wall",
+    "featured": true
+  },
+  {
+    "id": "murals-009",
+    "src": "/images/web-optimized/murals/IMG_1686.jpg",
+    "alt": "Mural artwork by Chan Riiny",
+    "category": "murals",
+    "year": "2024",
+    "medium": "Acrylic on wall",
+    "featured": true
+  },
+  {
+    "id": "murals-010",
     "src": "/images/web-optimized/murals/IMG_2092.JPG",
-    "alt": "Large-scale wall painting with cultural significance",
+    "alt": "Mural artwork by Chan Riiny",
     "category": "murals",
     "year": "2024",
     "medium": "Acrylic on wall",
     "featured": true
   },
   {
-    "id": "mural-008",
+    "id": "murals-011",
+    "src": "/images/web-optimized/murals/IMG_2668.jpg",
+    "alt": "Mural artwork by Chan Riiny",
+    "category": "murals",
+    "year": "2024",
+    "medium": "Acrylic on wall",
+    "featured": true
+  },
+  {
+    "id": "murals-012",
+    "src": "/images/web-optimized/murals/IMG_2670.jpg",
+    "alt": "Mural artwork by Chan Riiny",
+    "category": "murals",
+    "year": "2024",
+    "medium": "Acrylic on wall",
+    "featured": true
+  },
+  {
+    "id": "murals-013",
+    "src": "/images/web-optimized/murals/IMG_2745.jpg",
+    "alt": "Mural artwork by Chan Riiny",
+    "category": "murals",
+    "year": "2024",
+    "medium": "Acrylic on wall",
+    "featured": true
+  },
+  {
+    "id": "murals-014",
+    "src": "/images/web-optimized/murals/IMG_3247.jpg",
+    "alt": "Mural artwork by Chan Riiny",
+    "category": "murals",
+    "year": "2024",
+    "medium": "Acrylic on wall",
+    "featured": true
+  },
+  {
+    "id": "murals-015",
+    "src": "/images/web-optimized/murals/IMG_3486.JPG",
+    "alt": "Mural artwork by Chan Riiny",
+    "category": "murals",
+    "year": "2024",
+    "medium": "Acrylic on wall",
+    "featured": true
+  },
+  {
+    "id": "murals-016",
+    "src": "/images/web-optimized/murals/IMG_3487.JPG",
+    "alt": "Mural artwork by Chan Riiny",
+    "category": "murals",
+    "year": "2024",
+    "medium": "Acrylic on wall",
+    "featured": true
+  },
+  {
+    "id": "murals-017",
+    "src": "/images/web-optimized/murals/IMG_3492.JPG",
+    "alt": "Mural artwork by Chan Riiny",
+    "category": "murals",
+    "year": "2024",
+    "medium": "Acrylic on wall",
+    "featured": true
+  },
+  {
+    "id": "murals-018",
+    "src": "/images/web-optimized/murals/IMG_3976.jpg",
+    "alt": "Mural artwork by Chan Riiny",
+    "category": "murals",
+    "year": "2024",
+    "medium": "Acrylic on wall",
+    "featured": true
+  },
+  {
+    "id": "murals-019",
+    "src": "/images/web-optimized/murals/IMG_4960.jpg",
+    "alt": "Mural artwork by Chan Riiny",
+    "category": "murals",
+    "year": "2024",
+    "medium": "Acrylic on wall",
+    "featured": true
+  },
+  {
+    "id": "murals-020",
     "src": "/images/web-optimized/murals/IMG_6048.jpg",
-    "alt": "Artistic mural with vibrant color palette",
+    "alt": "Mural artwork by Chan Riiny",
     "category": "murals",
     "year": "2024",
     "medium": "Acrylic on wall",
     "featured": true
   },
   {
-    "id": "shoe-001",
-    "src": "/images/web-optimized/shoes/IMG_3233.jpg",
-    "alt": "Hand-painted shoe design with intricate patterns",
+    "id": "murals-021",
+    "src": "/images/web-optimized/murals/mural-1.jpg",
+    "alt": "Mural artwork by Chan Riiny",
+    "category": "murals",
+    "year": "2024",
+    "medium": "Acrylic on wall",
+    "featured": true
+  },
+  {
+    "id": "murals-022",
+    "src": "/images/web-optimized/murals/mural-2.jpg",
+    "alt": "Mural artwork by Chan Riiny",
+    "category": "murals",
+    "year": "2024",
+    "medium": "Acrylic on wall",
+    "featured": true
+  },
+  {
+    "id": "murals-023",
+    "src": "/images/web-optimized/murals/mural-3.jpg",
+    "alt": "Mural artwork by Chan Riiny",
+    "category": "murals",
+    "year": "2024",
+    "medium": "Acrylic on wall",
+    "featured": true
+  },
+  {
+    "id": "murals-024",
+    "src": "/images/web-optimized/murals/mural-4.jpg",
+    "alt": "Mural artwork by Chan Riiny",
+    "category": "murals",
+    "year": "2024",
+    "medium": "Acrylic on wall",
+    "featured": true
+  },
+  {
+    "id": "shoes-025",
+    "src": "/images/web-optimized/shoes/IMG_0388.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
     "category": "shoes",
     "year": "2024",
     "medium": "Acrylic on leather",
     "featured": true
   },
   {
-    "id": "shoe-002",
-    "src": "/images/web-optimized/shoes/IMG_3832.jpg",
-    "alt": "Custom shoe artwork with cultural motifs",
+    "id": "shoes-026",
+    "src": "/images/web-optimized/shoes/IMG_0390.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
     "category": "shoes",
     "year": "2024",
     "medium": "Acrylic on leather",
     "featured": true
   },
   {
-    "id": "shoe-003",
-    "src": "/images/web-optimized/shoes/IMG_3239.jpg",
-    "alt": "Detailed shoe painting with geometric designs",
+    "id": "shoes-027",
+    "src": "/images/web-optimized/shoes/IMG_0392.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
     "category": "shoes",
     "year": "2024",
     "medium": "Acrylic on leather",
     "featured": true
   },
   {
-    "id": "shoe-004",
-    "src": "/images/web-optimized/shoes/IMG_3240.jpg",
-    "alt": "Artistic shoe design with vibrant colors",
+    "id": "shoes-028",
+    "src": "/images/web-optimized/shoes/IMG_0393.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
     "category": "shoes",
     "year": "2024",
     "medium": "Acrylic on leather",
     "featured": true
   },
   {
-    "id": "shoe-005",
-    "src": "/images/web-optimized/shoes/IMG_3825.jpg",
-    "alt": "Hand-painted sneaker with unique artwork",
+    "id": "shoes-029",
+    "src": "/images/web-optimized/shoes/IMG_1097.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
     "category": "shoes",
     "year": "2024",
     "medium": "Acrylic on leather",
     "featured": true
   },
   {
-    "id": "shoe-006",
-    "src": "/images/web-optimized/shoes/IMG_3826.jpg",
-    "alt": "Custom shoe design with traditional patterns",
+    "id": "shoes-030",
+    "src": "/images/web-optimized/shoes/IMG_1285.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
     "category": "shoes",
     "year": "2024",
     "medium": "Acrylic on leather",
     "featured": true
   },
   {
-    "id": "shoe-007",
-    "src": "/images/web-optimized/shoes/IMG_3827.jpg",
-    "alt": "Artistic footwear with cultural significance",
+    "id": "shoes-031",
+    "src": "/images/web-optimized/shoes/IMG_1287.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
     "category": "shoes",
     "year": "2024",
     "medium": "Acrylic on leather",
     "featured": true
   },
   {
-    "id": "shoe-008",
-    "src": "/images/web-optimized/shoes/IMG_4340.jpg",
-    "alt": "Detailed shoe artwork with intricate details",
+    "id": "shoes-032",
+    "src": "/images/web-optimized/shoes/IMG_1380.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
     "category": "shoes",
     "year": "2024",
     "medium": "Acrylic on leather",
     "featured": true
   },
   {
-    "id": "shoe-009",
-    "src": "/images/web-optimized/shoes/IMG_4341.jpg",
-    "alt": "Custom painted shoe with artistic flair",
+    "id": "shoes-033",
+    "src": "/images/web-optimized/shoes/IMG_1651.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
     "category": "shoes",
     "year": "2024",
     "medium": "Acrylic on leather",
     "featured": true
   },
   {
-    "id": "shoe-010",
-    "src": "/images/web-optimized/shoes/IMG_4346.jpg",
-    "alt": "Hand-decorated footwear with unique design",
+    "id": "shoes-034",
+    "src": "/images/web-optimized/shoes/IMG_1652.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
     "category": "shoes",
     "year": "2024",
     "medium": "Acrylic on leather",
     "featured": true
   },
   {
-    "id": "shoe-011",
-    "src": "/images/web-optimized/shoes/IMG_4349.jpg",
-    "alt": "Artistic shoe design with vibrant artwork",
-    "category": "shoes",
-    "year": "2024",
-    "medium": "Acrylic on leather",
-    "featured": true
-  },
-  {
-    "id": "shoe-012",
-    "src": "/images/web-optimized/shoes/IMG_4350.jpg",
-    "alt": "Custom shoe painting with detailed patterns",
-    "category": "shoes",
-    "year": "2024",
-    "medium": "Acrylic on leather",
-    "featured": true
-  },
-  {
-    "id": "shoe-013",
+    "id": "shoes-035",
     "src": "/images/web-optimized/shoes/IMG_1666.jpg",
-    "alt": "Hand-painted sneaker with creative design",
+    "alt": "Hand-painted shoe design by Chan Riiny",
     "category": "shoes",
     "year": "2024",
     "medium": "Acrylic on leather",
     "featured": true
   },
   {
-    "id": "shoe-014",
-    "src": "/images/web-optimized/shoes/IMG_1667.jpg",
-    "alt": "Artistic footwear with cultural motifs",
+    "id": "shoes-036",
+    "src": "/images/web-optimized/shoes/IMG_1670.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
     "category": "shoes",
     "year": "2024",
     "medium": "Acrylic on leather",
     "featured": true
   },
   {
-    "id": "shoe-015",
-    "src": "/images/web-optimized/shoes/IMG_1668.jpg",
-    "alt": "Custom shoe art with intricate details",
+    "id": "shoes-037",
+    "src": "/images/web-optimized/shoes/IMG_1671.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
     "category": "shoes",
     "year": "2024",
     "medium": "Acrylic on leather",
     "featured": true
   },
   {
-    "id": "shoe-016",
+    "id": "shoes-038",
+    "src": "/images/web-optimized/shoes/IMG_1726.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-039",
+    "src": "/images/web-optimized/shoes/IMG_1727.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-040",
+    "src": "/images/web-optimized/shoes/IMG_1989.JPG",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-041",
+    "src": "/images/web-optimized/shoes/IMG_1990.JPG",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-042",
+    "src": "/images/web-optimized/shoes/IMG_1991.JPG",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-043",
     "src": "/images/web-optimized/shoes/IMG_2147.jpg",
-    "alt": "Hand-decorated shoe with unique artwork",
+    "alt": "Hand-painted shoe design by Chan Riiny",
     "category": "shoes",
     "year": "2024",
     "medium": "Acrylic on leather",
     "featured": true
   },
   {
-    "id": "shoe-017",
+    "id": "shoes-044",
     "src": "/images/web-optimized/shoes/IMG_2148.jpg",
-    "alt": "Artistic shoe design with vibrant colors",
+    "alt": "Hand-painted shoe design by Chan Riiny",
     "category": "shoes",
     "year": "2024",
     "medium": "Acrylic on leather",
     "featured": true
   },
   {
-    "id": "shoe-018",
+    "id": "shoes-045",
     "src": "/images/web-optimized/shoes/IMG_2149.jpg",
-    "alt": "Custom painted footwear with creative flair",
+    "alt": "Hand-painted shoe design by Chan Riiny",
     "category": "shoes",
     "year": "2024",
     "medium": "Acrylic on leather",
     "featured": true
   },
   {
-    "id": "shoe-019",
+    "id": "shoes-046",
+    "src": "/images/web-optimized/shoes/IMG_2150.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-047",
+    "src": "/images/web-optimized/shoes/IMG_2154.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-048",
+    "src": "/images/web-optimized/shoes/IMG_2156.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-049",
+    "src": "/images/web-optimized/shoes/IMG_2193.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-050",
+    "src": "/images/web-optimized/shoes/IMG_2196.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-051",
+    "src": "/images/web-optimized/shoes/IMG_2197.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-052",
     "src": "/images/web-optimized/shoes/IMG_2937.jpg",
-    "alt": "Hand-painted shoe with detailed artwork",
+    "alt": "Hand-painted shoe design by Chan Riiny",
     "category": "shoes",
     "year": "2024",
     "medium": "Acrylic on leather",
     "featured": true
   },
   {
-    "id": "shoe-020",
-    "src": "/images/web-optimized/shoes/IMG_2938.jpg",
-    "alt": "Artistic shoe design with traditional patterns",
+    "id": "shoes-053",
+    "src": "/images/web-optimized/shoes/IMG_2940.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
     "category": "shoes",
     "year": "2024",
     "medium": "Acrylic on leather",
     "featured": true
   },
   {
-    "id": "sketch-001",
+    "id": "shoes-054",
+    "src": "/images/web-optimized/shoes/IMG_2978.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-055",
+    "src": "/images/web-optimized/shoes/IMG_2980.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-056",
+    "src": "/images/web-optimized/shoes/IMG_2981.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-057",
+    "src": "/images/web-optimized/shoes/IMG_2982.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-058",
+    "src": "/images/web-optimized/shoes/IMG_3226.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-059",
+    "src": "/images/web-optimized/shoes/IMG_3233.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-060",
+    "src": "/images/web-optimized/shoes/IMG_3234.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-061",
+    "src": "/images/web-optimized/shoes/IMG_3239.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-062",
+    "src": "/images/web-optimized/shoes/IMG_3240.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-063",
+    "src": "/images/web-optimized/shoes/IMG_3830.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-064",
+    "src": "/images/web-optimized/shoes/IMG_3831.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-065",
+    "src": "/images/web-optimized/shoes/IMG_3832.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-066",
+    "src": "/images/web-optimized/shoes/IMG_3834.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-067",
+    "src": "/images/web-optimized/shoes/IMG_3839.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-068",
+    "src": "/images/web-optimized/shoes/IMG_3858.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-069",
+    "src": "/images/web-optimized/shoes/IMG_4043.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-070",
+    "src": "/images/web-optimized/shoes/IMG_4047.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-071",
+    "src": "/images/web-optimized/shoes/IMG_4258.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-072",
+    "src": "/images/web-optimized/shoes/IMG_4259.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-073",
+    "src": "/images/web-optimized/shoes/IMG_4260.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-074",
+    "src": "/images/web-optimized/shoes/IMG_4261.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-075",
+    "src": "/images/web-optimized/shoes/IMG_4262.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-076",
+    "src": "/images/web-optimized/shoes/IMG_4330.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-077",
+    "src": "/images/web-optimized/shoes/IMG_4336.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-078",
+    "src": "/images/web-optimized/shoes/IMG_4338.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-079",
+    "src": "/images/web-optimized/shoes/IMG_4339.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-080",
+    "src": "/images/web-optimized/shoes/IMG_4340.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-081",
+    "src": "/images/web-optimized/shoes/IMG_4341.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-082",
+    "src": "/images/web-optimized/shoes/IMG_4346.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-083",
+    "src": "/images/web-optimized/shoes/IMG_4349.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-084",
+    "src": "/images/web-optimized/shoes/IMG_4350.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-085",
+    "src": "/images/web-optimized/shoes/IMG_4355.jpg",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-086",
+    "src": "/images/web-optimized/shoes/IMG_6844.JPG",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-087",
+    "src": "/images/web-optimized/shoes/IMG_6855.JPG",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "shoes-088",
+    "src": "/images/web-optimized/shoes/IMG_6859.JPG",
+    "alt": "Hand-painted shoe design by Chan Riiny",
+    "category": "shoes",
+    "year": "2024",
+    "medium": "Acrylic on leather",
+    "featured": true
+  },
+  {
+    "id": "sketches-089",
+    "src": "/images/web-optimized/sketches/IMG_2891.jpg",
+    "alt": "Conceptual sketch by Chan Riiny",
+    "category": "sketches",
+    "year": "2024",
+    "medium": "Pencil on paper",
+    "featured": true
+  },
+  {
+    "id": "sketches-090",
     "src": "/images/web-optimized/sketches/IMG_3237.jpg",
-    "alt": "Preliminary sketch for mural design",
+    "alt": "Conceptual sketch by Chan Riiny",
     "category": "sketches",
     "year": "2024",
     "medium": "Pencil on paper",
     "featured": true
   },
   {
-    "id": "sketch-002",
+    "id": "sketches-091",
+    "src": "/images/web-optimized/sketches/IMG_4341.jpg",
+    "alt": "Conceptual sketch by Chan Riiny",
+    "category": "sketches",
+    "year": "2024",
+    "medium": "Pencil on paper",
+    "featured": true
+  },
+  {
+    "id": "sketches-092",
+    "src": "/images/web-optimized/sketches/IMG_5193.jpg",
+    "alt": "Conceptual sketch by Chan Riiny",
+    "category": "sketches",
+    "year": "2024",
+    "medium": "Pencil on paper",
+    "featured": true
+  },
+  {
+    "id": "sketches-093",
     "src": "/images/web-optimized/sketches/IMG_6050.jpg",
-    "alt": "Conceptual drawing for art project",
+    "alt": "Conceptual sketch by Chan Riiny",
     "category": "sketches",
     "year": "2024",
     "medium": "Pencil on paper",
     "featured": true
   },
   {
-    "id": "sketch-003",
+    "id": "sketches-094",
     "src": "/images/web-optimized/sketches/IMG_6051.jpg",
-    "alt": "Design sketch with detailed elements",
+    "alt": "Conceptual sketch by Chan Riiny",
     "category": "sketches",
     "year": "2024",
     "medium": "Pencil on paper",
     "featured": true
   },
   {
-    "id": "sketch-004",
+    "id": "sketches-095",
     "src": "/images/web-optimized/sketches/IMG_6052.jpg",
-    "alt": "Artistic sketch with cultural themes",
+    "alt": "Conceptual sketch by Chan Riiny",
     "category": "sketches",
     "year": "2024",
     "medium": "Pencil on paper",
     "featured": true
   },
   {
-    "id": "sketch-005",
+    "id": "sketches-096",
     "src": "/images/web-optimized/sketches/IMG_9775.jpg",
-    "alt": "Preparatory drawing for major work",
+    "alt": "Conceptual sketch by Chan Riiny",
     "category": "sketches",
     "year": "2024",
     "medium": "Pencil on paper",
     "featured": true
   },
   {
-    "id": "thesis-001",
+    "id": "sketches-097",
+    "src": "/images/web-optimized/sketches/IMG_9776.jpg",
+    "alt": "Conceptual sketch by Chan Riiny",
+    "category": "sketches",
+    "year": "2024",
+    "medium": "Pencil on paper",
+    "featured": true
+  },
+  {
+    "id": "thesis-098",
     "src": "/images/web-optimized/thesis/IMG_4688.jpg",
-    "alt": "Senior thesis artwork - main piece",
+    "alt": "Senior thesis artwork by Chan Riiny",
     "category": "thesis",
     "year": "2024",
     "medium": "Oil on canvas",
     "featured": true
   },
   {
-    "id": "thesis-002",
+    "id": "thesis-099",
     "src": "/images/web-optimized/thesis/thesis-detail-1.jpg",
-    "alt": "Detail view of thesis work - section one",
+    "alt": "Senior thesis artwork by Chan Riiny",
     "category": "thesis",
     "year": "2024",
     "medium": "Oil on canvas",
     "featured": true
   },
   {
-    "id": "thesis-003",
+    "id": "thesis-100",
     "src": "/images/web-optimized/thesis/thesis-detail-2.jpg",
-    "alt": "Detail view of thesis work - section two",
+    "alt": "Senior thesis artwork by Chan Riiny",
     "category": "thesis",
     "year": "2024",
     "medium": "Oil on canvas",
     "featured": true
   },
   {
-    "id": "thesis-004",
+    "id": "thesis-101",
     "src": "/images/web-optimized/thesis/thesis-detail-3.jpg",
-    "alt": "Detail view of thesis work - section three",
+    "alt": "Senior thesis artwork by Chan Riiny",
     "category": "thesis",
     "year": "2024",
     "medium": "Oil on canvas",
     "featured": true
   },
   {
-    "id": "process-001",
+    "id": "process-102",
     "src": "/images/web-optimized/process/IMG_1197.jpg",
-    "alt": "Work in progress - shoe painting process",
+    "alt": "Behind-the-scenes creation process by Chan Riiny",
     "category": "process",
     "year": "2024",
     "medium": "Process documentation",
     "featured": true
   },
   {
-    "id": "process-002",
+    "id": "process-103",
     "src": "/images/web-optimized/process/IMG_1687.jpg",
-    "alt": "Behind the scenes - artistic process",
+    "alt": "Behind-the-scenes creation process by Chan Riiny",
     "category": "process",
     "year": "2024",
     "medium": "Process documentation",
     "featured": true
   },
   {
-    "id": "process-003",
+    "id": "process-104",
     "src": "/images/web-optimized/process/IMG_3855.jpg",
-    "alt": "Studio work - creation in progress",
+    "alt": "Behind-the-scenes creation process by Chan Riiny",
     "category": "process",
     "year": "2024",
     "medium": "Process documentation",
     "featured": true
   },
   {
-    "id": "process-004",
+    "id": "process-105",
+    "src": "/images/web-optimized/process/IMG_3856.jpg",
+    "alt": "Behind-the-scenes creation process by Chan Riiny",
+    "category": "process",
+    "year": "2024",
+    "medium": "Process documentation",
+    "featured": true
+  },
+  {
+    "id": "process-106",
+    "src": "/images/web-optimized/process/IMG_3857.jpg",
+    "alt": "Behind-the-scenes creation process by Chan Riiny",
+    "category": "process",
+    "year": "2024",
+    "medium": "Process documentation",
+    "featured": true
+  },
+  {
+    "id": "process-107",
+    "src": "/images/web-optimized/process/IMG_6843.JPG",
+    "alt": "Behind-the-scenes creation process by Chan Riiny",
+    "category": "process",
+    "year": "2024",
+    "medium": "Process documentation",
+    "featured": true
+  },
+  {
+    "id": "process-108",
     "src": "/images/web-optimized/process/IMG_6852.JPG",
-    "alt": "Artistic process - detailed work",
+    "alt": "Behind-the-scenes creation process by Chan Riiny",
     "category": "process",
     "year": "2024",
     "medium": "Process documentation",
     "featured": true
   },
   {
-    "id": "process-005",
+    "id": "process-109",
     "src": "/images/web-optimized/process/IMG_6853.JPG",
-    "alt": "Work in progress - creative process",
+    "alt": "Behind-the-scenes creation process by Chan Riiny",
     "category": "process",
     "year": "2024",
     "medium": "Process documentation",
     "featured": true
   },
   {
-    "id": "process-006",
+    "id": "process-110",
+    "src": "/images/web-optimized/process/IMG_6856.JPG",
+    "alt": "Behind-the-scenes creation process by Chan Riiny",
+    "category": "process",
+    "year": "2024",
+    "medium": "Process documentation",
+    "featured": true
+  },
+  {
+    "id": "process-111",
     "src": "/images/web-optimized/process/IMG_6860.JPG",
-    "alt": "Behind the scenes - artistic technique",
+    "alt": "Behind-the-scenes creation process by Chan Riiny",
     "category": "process",
     "year": "2024",
     "medium": "Process documentation",
     "featured": true
   },
   {
-    "id": "process-007",
+    "id": "process-112",
     "src": "/images/web-optimized/process/IMG_6862.JPG",
-    "alt": "Studio documentation - creation process",
+    "alt": "Behind-the-scenes creation process by Chan Riiny",
     "category": "process",
     "year": "2024",
     "medium": "Process documentation",
     "featured": true
   },
   {
-    "id": "process-008",
+    "id": "process-113",
     "src": "/images/web-optimized/process/IMG_6865.JPG",
-    "alt": "Work in progress - artistic development",
+    "alt": "Behind-the-scenes creation process by Chan Riiny",
+    "category": "process",
+    "year": "2024",
+    "medium": "Process documentation",
+    "featured": true
+  },
+  {
+    "id": "process-114",
+    "src": "/images/web-optimized/process/IMG_6866.JPG",
+    "alt": "Behind-the-scenes creation process by Chan Riiny",
     "category": "process",
     "year": "2024",
     "medium": "Process documentation",
