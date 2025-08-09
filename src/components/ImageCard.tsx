@@ -1,6 +1,6 @@
 'use client';
 
-import React from 'react';
+import React, { useState } from 'react';
 import Image from 'next/image';
 import type { ImageItem } from '@/types';
 
@@ -10,6 +10,20 @@ interface ImageCardProps {
 }
 
 const ImageCard: React.FC<ImageCardProps> = ({ image, onClick }) => {
+  const [imageError, setImageError] = useState(false);
+  const [imageLoading, setImageLoading] = useState(true);
+
+  const handleImageError = () => {
+    console.error('Failed to load image:', image.src);
+    setImageError(true);
+    setImageLoading(false);
+  };
+
+  const handleImageLoad = () => {
+    setImageLoading(false);
+    setImageError(false);
+  };
+
   return (
     <div className="group relative aspect-square overflow-hidden bg-white/5">
       <button
@@ -17,6 +31,23 @@ const ImageCard: React.FC<ImageCardProps> = ({ image, onClick }) => {
         className="w-full h-full focus-ring"
         aria-label={`View ${image.alt}`}
       >
+        {/* Show loading state */}
+        {imageLoading && !imageError && (
+          <div className="w-full h-full flex items-center justify-center text-white/40 animate-pulse">
+            <p className="text-sm">Loading...</p>
+          </div>
+        )}
+
+        {/* Show error state */}
+        {imageError && (
+          <div className="w-full h-full flex items-center justify-center text-red-400 bg-red-900/20">
+            <div className="text-center">
+              <p className="text-sm">Image failed to load</p>
+              <p className="text-xs text-white/60 mt-1">{image.src}</p>
+            </div>
+          </div>
+        )}
+
         {/* Placeholder for when image is not available */}
         {image.src.includes('placeholder') ? (
           <div className="w-full h-full flex items-center justify-center text-white/40">
@@ -28,9 +59,12 @@ const ImageCard: React.FC<ImageCardProps> = ({ image, onClick }) => {
             alt={image.alt}
             fill
             sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-            className="object-cover transition-transform duration-300 group-hover:scale-105"
-            placeholder="blur"
-            blurDataURL="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAv/xAAhEAACAQMDBQAAAAAAAAAAAAABAgMABAUGIWGRkqGx0f/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECEgMRkf/aAAwDAQACEQMRAD8AltJagyeH0AthI5xdrLcNM91BF5pX2HaH9bcfaSXWGaRmknyJckliyjqTzSlT54b6bk+h0R//2Q=="
+            className={`object-cover transition-transform duration-300 group-hover:scale-105 ${
+              imageLoading ? 'opacity-0' : 'opacity-100'
+            }`}
+            onLoad={handleImageLoad}
+            onError={handleImageError}
+            unoptimized={true} // Disable optimization to fix blank boxes
           />
         )}
         
@@ -49,4 +83,4 @@ const ImageCard: React.FC<ImageCardProps> = ({ image, onClick }) => {
   );
 };
 
-export default ImageCard; 
+export default ImageCard;
