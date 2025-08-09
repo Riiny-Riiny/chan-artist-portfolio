@@ -14,7 +14,7 @@ const GalleryGrid = () => {
   useEffect(() => {
     const loadImages = async () => {
       try {
-        const response = await fetch('/images/manifest.json');
+        const response = await fetch('/images/manifest-web.json');
         const data = await response.json();
         setImages(data);
       } catch (error) {
